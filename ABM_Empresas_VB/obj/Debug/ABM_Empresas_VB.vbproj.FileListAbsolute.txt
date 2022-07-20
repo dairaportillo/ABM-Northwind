@@ -1,0 +1,12 @@
+C:\Users\porti\source\repos\ABM_Empresas_VB\bin\Debug\ABM_Empresas_VB.exe.config
+C:\Users\porti\source\repos\ABM_Empresas_VB\bin\Debug\ABM_Empresas_VB.exe
+C:\Users\porti\source\repos\ABM_Empresas_VB\bin\Debug\ABM_Empresas_VB.pdb
+C:\Users\porti\source\repos\ABM_Empresas_VB\bin\Debug\ABM_Empresas_VB.xml
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.vbproj.AssemblyReference.cache
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.AMB_Empresa.resources
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.Resources.resources
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.vbproj.GenerateResource.cache
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.vbproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.exe
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.xml
+C:\Users\porti\source\repos\ABM_Empresas_VB\obj\Debug\ABM_Empresas_VB.pdb
